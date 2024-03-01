@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Bachelor of Science in Business Computer Information
 - 🎓 **Educational Background:** Business Computer Information Systems at The University of North Texas.
 - 🌟 **Interests:** Full Stack Web Development, Artificial Intelligence.
 - 🌐 **Technologies I Love:** HTML, CSS, JavaScript, React, PostgreSQL, Tailwind, C#, ASP.NET, Java.
-- 🌍 **Life Beyond Coding:** Fluent in Mandarin, fitness enthusiast, culinary explorer.
+- 🌍 **Life Beyond Coding:** Learning Mandarin, fitness enthusiast, culinary explorer.
 
 ### 💻 Professional Journey
 
